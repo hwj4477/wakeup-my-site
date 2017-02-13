@@ -13,5 +13,5 @@ URL="http://home.wjhong.pe.kr"
 BIN_PATH="$HOME/go/src/wakeup-my-site"
 export PATH=$BIN_PATH
 
-exec $BIN_PATH/wakeup-my-site $URL
+exec wakeup-my-site $URL
 
