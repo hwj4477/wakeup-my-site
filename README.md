@@ -1,8 +1,10 @@
 # Wake up My Site (in heroku free tier)
 Heroku free tier must sleep if not active for 30 minutes.<br />
-So I wanted to wake up every 30 minutes.<br />
+So I wanted to wake up my site every 30 minutes. And I wanted to logging.<br />
 
 ## Usage ##
+You must have server. And install golang.<br />
+I have use my raspberry pi.<br />
 
 ### go get
 ```
