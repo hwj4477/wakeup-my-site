@@ -21,5 +21,5 @@ exec wakeup-my-site $URL
 
 ### add crontab
 ```
-# crontab -e
+$ crontab -e
 ```
