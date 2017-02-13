@@ -1,4 +1,4 @@
-# Wake up My Site (in heroku free tier)
+# Wake up My Site (In heroku free tier)
 Heroku free tier must sleep if not active for 30 minutes.<br />
 So I wanted to wake up my site every 30 minutes. And I wanted to logging.<br />
 
@@ -11,7 +11,7 @@ I have use my raspberry pi.<br />
 $ go get github.com/hwj4477/wakeup-my-site
 ```
 
-### edit script
+### edit shell script
 ```
 URL="your-site-url"
 
